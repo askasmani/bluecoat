@@ -3,10 +3,12 @@ This script will parse an input file of URLs (each on a new line) and return the
 
 ## Install
 Install the requirements by running:
+
     $ pip install requirements.txt
     
 ## Run
 Run the script using:
+
     $ python bluecoat.py <inputfile>
 
 ## Feedback
